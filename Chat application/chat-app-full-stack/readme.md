@@ -56,25 +56,6 @@ and
 5. Navigate to your web browser and if it has not already displayed, enter in the following URL:
 ```http://localhost:3000/```
 
-## **Project Structure**
-This project is structured as below.
-
-### **Component Diagram**
-
-![Component Diagram](/diagrams/Component_diagram.png "Component Diagram")
-
-### **Wireframes**
-
-![Wireframes](/diagrams/Wireframes.png "Wireframes")
-
-### ERD
-
-![ERD](/diagrams/ERD.png "ERD")
-
-### UML
-
-![UML](/diagrams/UML.png "UML")
-
 ## **MVP**
 For our MVP, we wanted to create a website with maximum functionality which included:
 
