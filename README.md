@@ -4,13 +4,6 @@
 	Let's have a chat with your friends!
 </p>
 
-## **Table of Contents**
-* [This Website Features](#this-website-features)
-* [Setup and Instructions](#setup-and-instructions-for-using-the-project)
-* [Minimum Viable Product (MVP)](#mvp)
-* [Extensions](#extension)
-* [Further Implementations](#further-implementations--extensions)
-
 ### **This Website Features**
 - Login functionality
 - Registration
@@ -34,8 +27,8 @@ and
 5. Navigate to your web browser and if it has not already displayed, enter in the following URL:
 ```http://localhost:3000/```
 
-## **MVP**
-For our MVP, we wanted to create a website with maximum functionality which included:
+## **Additional features**
+These are some additional features which i have included:
 
 * Register a new account
 * Log in an account
@@ -53,7 +46,7 @@ What I have expanded on this full-stack project:
 * Encrypt stored password
 
 ## **Further Implementations**
-Further functionalities we would like to develop into this website are:
+Further functionalities I would like to develop into this website are:
 
 * Group chats
 * Pop up window for notification
