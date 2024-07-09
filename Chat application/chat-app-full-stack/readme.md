@@ -20,7 +20,7 @@
 
 ## **Setup and Instructions for using the Project**
 
-1. This Full-stack project runs on React and Express. Make sure you have Node and MongoDB installed to run the API and React. We used VSCode and MongoDB Compass for this project.
+1. This Full-stack project runs on React and Express. Make sure you have Node and MongoDB installed to run the API and React. I used VSCode and MongoDB Compass for this project.
 2. Clone [Chat App](https://github.com/YoyoMai98/chat-app-full-stack.git) by typing the following commands into your terminal:
 ```git clone git@github.com:YoyoMai98/chat-app-full-stack.git```. Open in VSCode.
 3. Within VSCode, navigate your terminal to the `express.js_server` folder and run the following two commands:
