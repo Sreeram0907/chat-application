@@ -1,9 +1,5 @@
 # **Chat App**
 
-<p align="center">
-	Let's have a chat with your friends!
-</p>
-
 ### **This Website Features**
 - Login functionality
 - Registration
