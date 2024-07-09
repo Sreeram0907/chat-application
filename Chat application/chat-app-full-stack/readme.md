@@ -4,34 +4,12 @@
 	Let's have a chat with your friends!
 </p>
 
-## **Who we are**
-We are the team behind Chat App. 5 members of Cohort 6 from the Bright Network Technology Academy!
-
-* April
-	* [Github](https://github.com/AprilGar)
-* Hangqing
-	* [Github](https://github.com/hanqing2001)
-* Joao
-	* [Github](https://github.com/joaopulsz)
-* Migle
-	* [Github](https://github.com/migleambr)
-* Yongran
-  * [Github](https://github.com/YoyoMai98)
-
 ## **Table of Contents**
-* [Project Overview](#project-overview)
 * [This Website Features](#this-website-features)
 * [Setup and Instructions](#setup-and-instructions-for-using-the-project)
-* [Project Structure](#project-structure)
-* [Component Diagram](#component-diagram)
-* [Wireframes](#wireframes)
 * [Minimum Viable Product (MVP)](#mvp)
 * [Extensions](#extension)
 * [Further Implementations](#further-implementations--extensions)
-* [Acknowledgements](#acknowledgments)
-
-## **Project Overview**
-As part of the Bright Network Technology Academy, we were assigned a group project to research, plan and develop a Full-stack project - a chat app in 10 days.
 
 ### **This Website Features**
 - Login functionality
@@ -67,7 +45,7 @@ For our MVP, we wanted to create a website with maximum functionality which incl
 
 ## **Extensions**
 
-What we have expanded on this full-stack project:
+What I have expanded on this full-stack project:
 
 * Add multiple friends
 * Multiple conversations
@@ -83,6 +61,3 @@ Further functionalities we would like to develop into this website are:
 * Typing bubble
 * Account profile picture
 
-## **Acknowledgments**
-A special thank you to [BNTA team](https://techacademy.brightnetwork.co.uk/) and especially to Anna, Colin, Ed, Eoan, Phil, Richard and Zsolt, for all the advice and support during the project.
-You've made this learning process a blast!
